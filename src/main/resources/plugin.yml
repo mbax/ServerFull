@@ -1,0 +1,5 @@
+name: ServerFull
+main: org.kitteh.serverfull.ServerFull
+website: http://kitteh.org
+author: mbaxter
+version: '${project.version}'
